@@ -1,8 +1,11 @@
 ### Hi there I'm Abedalelah Hyari 👋
-I am a full-stack developer with robust problem solving
-skills and follow best practices, delivering
-high-quality standardization in creating and
-designing software in a test-driven environment.
+Talented software engineer with solid principles
+focused on solving complex problems, analyzing,
+designing, and developing solutions for enterprise
+needs with robust architecture. Skills focused on
+achieving project objectives with speed and
+precision, to deliver high-quality solutions and
+full-stack applications in various domains.
 
 ### REACH ME AT
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abedalelah-hyari/)
