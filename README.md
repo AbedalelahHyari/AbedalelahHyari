@@ -6,8 +6,7 @@ Talented software engineer with solid principles focused on solving complex prob
 
 - 🌍  I'm based in Jordan
 - ✉️  You can contact me at [abedalelah.hyari@gmail.com](mailto:abedalelah.hyari@gmail.com)
-- 🚀  I'm currently working on Task Managment System
-- 🧠  I'm learning Spring Boot Framework and JAVA Language.
+- 🧠  I'm learning ASP.NET MVC Framework.
 - ⚡  I have the ability and passion to learn new technology.
 
 <a href="https://www.github.com/AbedalelahHyari" target="_blank" rel="noreferrer"><img
